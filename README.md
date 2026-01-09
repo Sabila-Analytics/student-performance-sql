@@ -104,16 +104,14 @@ This categorization enables clearer interpretation of student performance levels
 **Screenshots**
 
 1.Analysis Result 1
-
 (screenshots/analysis\_result\_score\_difference\_vs\_tier\_average.png)
 
 2.Analysis Result 2
-
 (screenshots/analysis\_result\_top\_student\_each\_tier.png)
 
 3.Analysis Result 3
-
 (screenshots/analysis\_avg\_score\_and\_percentile.png)
+
 
 
 
